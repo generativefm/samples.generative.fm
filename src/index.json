@@ -98,14 +98,14 @@
     "G4": "g4.wav"
   },
   "sso-cor-anglais": {
-    "B3": "./samples/sso-cor-anglais/b3.wav",
-    "B4": "./samples/sso-cor-anglais/b4.wav",
-    "D4": "./samples/sso-cor-anglais/d4.wav",
-    "D5": "./samples/sso-cor-anglais/d5.wav",
-    "F3": "./samples/sso-cor-anglais/f3.wav",
-    "F4": "./samples/sso-cor-anglais/f4.wav",
-    "F5": "./samples/sso-cor-anglais/f5.wav",
-    "G#3": "./samples/sso-cor-anglais/gsharp3.wav",
-    "G#4": "./samples/sso-cor-anglais/gsharp4.wav"
+    "B3": "b3.wav",
+    "B4": "b4.wav",
+    "D4": "d4.wav",
+    "D5": "d5.wav",
+    "F3": "f3.wav",
+    "F4": "f4.wav",
+    "F5": "f5.wav",
+    "G#3": "gsharp3.wav",
+    "G#4": "gsharp4.wav"
   }
 }
