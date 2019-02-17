@@ -81,5 +81,7 @@ typings/
 
 # output
 public/
+dist/
 
+# secrets
 secrets.js
