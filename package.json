@@ -1,12 +1,13 @@
 {
   "name": "samples.generative.fm",
-  "version": "0.1.0",
+  "version": "0.0.5",
   "description": "Samples and relevant utilies for samples.generative.fm.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node ./lib/build/index.js",
-    "deploy": "node ./lib/deploy/index.js"
+    "deploy": "node ./lib/deploy/index.js",
+    "postversion": "git push && git push --tags"
   },
   "author": "Alex Bainter <alexbainter+github@gmail.com> (https://alexbainter.com)",
   "license": "MIT",
