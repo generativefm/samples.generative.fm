@@ -195,5 +195,17 @@
     "84.wav",
     "85.wav",
     "86.wav"
-  ]
+  ],
+  "vsco2-flute-susvib": {
+    "A3": "a3.wav",
+    "A4": "a4.wav",
+    "A5": "a5.wav",
+    "C3": "c3.wav",
+    "C4": "c4.wav",
+    "C5": "c5.wav",
+    "C6": "c6.wav",
+    "E3": "e3.wav",
+    "E4": "e4.wav",
+    "E5": "e5.wav"
+  }
 }
