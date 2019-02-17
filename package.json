@@ -1,5 +1,5 @@
 {
-  "name": "samples.generative.fm",
+  "name": "@generative-music/samples.generative.fm",
   "version": "1.0.0",
   "description": "Samples and relevant utilies for samples.generative.fm.",
   "main": "index.js",
