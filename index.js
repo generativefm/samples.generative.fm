@@ -2,4 +2,6 @@
 
 const isNode = require('detect-node');
 
-module.exports = isNode ? require('./node') : require('./dist/browser');
+module.exports = isNode
+  ? require('./node-client')
+  : require('./browser-client');

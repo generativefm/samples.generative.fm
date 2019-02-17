@@ -3,12 +3,12 @@
   "version": "1.1.0",
   "description": "Browser and Node client for accessing files from samples.generative.fm.",
   "main": "index.js",
-  "module": "dist/browser.js",
+  "module": "browser-client.js",
   "files": [
     "src/client/node",
     "src/client/shared",
-    "dist",
-    "node.js"
+    "browser-client.js",
+    "node-client.js"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

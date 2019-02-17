@@ -8,7 +8,7 @@ const babel = require('rollup-plugin-babel');
 module.exports = {
   input: './src/client/browser/browser.js',
   output: {
-    file: './dist/browser.js',
+    file: 'browser-client.js',
     format: 'esm',
   },
   external: ['mem'],

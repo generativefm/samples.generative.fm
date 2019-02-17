@@ -81,7 +81,7 @@ typings/
 
 # output
 public/
-dist/
+browser-client.js
 
 # secrets
 secrets.js

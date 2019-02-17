@@ -19,13 +19,13 @@ const fetchSpecFile from 'samples.generative.fm';
 ### 2. Browser-only
 
 ```javascript
-import fetchSpecFile from 'samples.generative.fm/dist/browser';
+import fetchSpecFile from 'samples.generative.fm/browser-client';
 ```
 
 ### 3. Node-only
 
 ```javascript
-const fetchSpecFile from 'samples.generative.fm/node';
+const fetchSpecFile from 'samples.generative.fm/node-client';
 ```
 
 The imported function can be used like so:
