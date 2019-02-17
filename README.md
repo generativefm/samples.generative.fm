@@ -1,30 +1,42 @@
 # samples.generative.fm
 
-Storage and tooling for samples used by [generative.fm](https://github.com/generative-music/generative.fm).
+Browser and Node client for accessing files from [samples.generative.fm](https://samples.generative.fm).
 
-## Prerequisites
+## Usage
 
-To run the build process, [SoX](http://sox.sourceforge.net/) and [LAME](http://lame.sourceforge.net/) are required.
+There are three ways to import the client.
 
-### Windows
+### 1. Environment Automatic Detection
 
-Consult [this guide](https://github.com/JoFrhwld/FAVE/wiki/Sox-on-Windows) for SoX installation instructions.
-See [here](https://github.com/jankarres/node-lame#install-on-windows) for LAME installations instructions.
+This method will detect if the package has been imported in a browser or Node environment.
 
-## Build
+```javascript
+import fetchSpecFile from 'samples.generative.fm';
+// or
+const fetchSpecFile from 'samples.generative.fm';
+```
 
-Compressed versions of the source samples are created with `npm run build`.
+### 2. Browser-only
 
-Source samples can be found in the [`src`](src) directory, organized by instrument. Currently, only `.wav` files are supported as sources.
+```javascript
+import fetchSpecFile from 'samples.generative.fm/dist/browser';
+```
 
-The build process is as follows:
+### 3. Node-only
 
-1. Source files are converted into compressed formats (currently `.ogg` and `.mp3`) and placed in the `public` directory organized by instrument and by format. For example, a source sample `src/guitar/a4.wav` would be converted to `public/guitar/ogg/a4.ogg` and `public/guitar/mp3/a4.mp3`. Source files are listed in [`src/index.json`](src/index.json).
-2. The output files are renamed to the [MD5 hash](https://en.wikipedia.org/wiki/MD5#MD5_hashes) of the file content. For example, `public/guitar/ogg/a4.ogg` would be renamed to `public/guitar/ogg/<CONTENT_HASH>.ogg`.
-3. An index file which contains information about the created samples is output to the `public` directory. The filename is named like `index.<VERSION>.json`, where `<VERSION>` is the version listed in [`package.json`](package.json).
+```javascript
+const fetchSpecFile from 'samples.generative.fm/node';
+```
 
-## Deployment
+The imported function can be used like so:
 
-Current samples are available at [samples.generative.fm](https://samples.generative.fm/).
+```javascript
+fetchSpecFile().then(specFile => {
+  console.log(specFile.samples['sampled-instrument'].ogg['A4']);
+  // outputs something like 'https://samples.generative.fm/sampled-instrument/ogg/<filename>.ogg'
+});
+```
 
-Authorized users can deploy the `public` directory with `npm run deploy`.
+## Local Development
+
+The package is built with `npm run build:pkg`.
