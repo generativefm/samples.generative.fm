@@ -1,6 +1,6 @@
 {
   "name": "samples.generative.fm",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "Samples and relevant utilies for samples.generative.fm.",
   "main": "index.js",
   "scripts": {
