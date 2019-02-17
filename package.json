@@ -1,9 +1,15 @@
 {
   "name": "@generative-music/samples.generative.fm",
   "version": "1.0.0",
-  "description": "Samples and relevant utilies for samples.generative.fm.",
+  "description": "Browser and Node client for accessing files from samples.generative.fm.",
   "main": "index.js",
   "module": "dist/browser.js",
+  "files": [
+    "src/client/node",
+    "src/client/shared",
+    "dist",
+    "node.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:samples": "node ./lib/build/index.js",
@@ -36,6 +42,11 @@
   },
   "dependencies": {
     "detect-node": "^2.0.4",
-    "mem": "^4.1.0"
+    "mem": "^4.1.0",
+    "node-fetch": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/generative-music/samples.generative.fm"
   }
 }
