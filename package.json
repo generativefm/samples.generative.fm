@@ -17,7 +17,8 @@
     "build": "npm run build:samples && npm run build:pkg",
     "deploy": "npm run build && node ./lib/deploy/index.js",
     "postversion": "git push && git push --tags",
-    "clean": "rimraf ./public"
+    "clean": "rimraf ./public",
+    "prepublishOnly": "npm run deploy"
   },
   "author": "Alex Bainter <alexbainter+github@gmail.com> (https://alexbainter.com)",
   "license": "MIT",
