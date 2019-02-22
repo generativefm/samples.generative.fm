@@ -15,7 +15,7 @@
     "build:samples": "node ./lib/build/index.js",
     "build:pkg": "rollup -c",
     "build": "npm run build:samples && npm run build:pkg",
-    "deploy": "node ./lib/deploy/index.js",
+    "deploy": "npm run build && node ./lib/deploy/index.js",
     "postversion": "git push && git push --tags",
     "clean": "rimraf ./public"
   },
