@@ -207,5 +207,20 @@
     "E3": "e3.wav",
     "E4": "e4.wav",
     "E5": "e5.wav"
+  },
+  "vsco2-cello-susvib-f": {
+    "A2": "a2.wav",
+    "B1": "b1.wav",
+    "B3": "b3.wav",
+    "C1": "c1.wav",
+    "C3": "c3.wav",
+    "D2": "d2.wav",
+    "D4": "d4.wav",
+    "E1": "e1.wav",
+    "E3": "e3.wav",
+    "F2": "f2.wav",
+    "F4": "f4.wav",
+    "G1": "g1.wav",
+    "G3": "g3.wav"
   }
 }
