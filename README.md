@@ -1,6 +1,8 @@
 # samples.generative.fm
 
-Browser and Node client for accessing files from [samples.generative.fm](https://samples.generative.fm).
+Browser and Node client for accessing files from [samples.generative.fm].
+
+> Access to [samples.generative.fm] is currently restricted with [CORS]([samples.generative.fm]). Unrecognized origins will not be able to fetch audio files.
 
 ## Usage
 
@@ -31,12 +33,25 @@ const fetchSpecFile from 'samples.generative.fm/node-client';
 The imported function can be used like so:
 
 ```javascript
-fetchSpecFile().then(specFile => {
-  console.log(specFile.samples['sampled-instrument'].ogg['A4']);
+fetchSpecFile('my-sample-host.com', 'sample-spec.json').then(sampleInfo => {
+  console.log(sampleInfo.samples['sampled-instrument'].ogg['A4']);
   // outputs something like 'https://samples.generative.fm/sampled-instrument/ogg/<filename>.ogg'
 });
 ```
 
+## API
+
+### `fetchSpecFile([baseUrl], [filename])`
+
+Returns an object containing information about the samples.
+
+#### Parameters
+
+- `baseUrl` (string) [optional, default `'https://samples.generative.fm'`]: Prepended to all requests.
+- `filename` (string) [optional, default `'index.<CURRENT_PKG_VERSION>'.json`]: The filename to use when fetching the spec file.
+
 ## Local Development
 
 The package is built with `npm run build:pkg`.
+
+[samples.generative.fm]: https://samples.generative.fm

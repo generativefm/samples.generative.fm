@@ -3,11 +3,16 @@
 const memoize = require('mem');
 const DEFAULT_ENDPOINT = 'https://samples.generative.fm';
 
-const makeFetchSpecFile = (fetch, version) =>
-  memoize((endpoint = DEFAULT_ENDPOINT) => {
+const getDefaultSpecFilename = version => `index.${version}.json`;
+
+const makeFetchSpecFile = (fetch, version) => {
+  const fetchSpecFile = (
+    endpoint = DEFAULT_ENDPOINT,
+    filename = getDefaultSpecFilename(version)
+  ) => {
     const pathWithEndpoint = path =>
       `${endpoint}${endpoint.endsWith('/') ? '' : '/'}${path}`;
-    return fetch(pathWithEndpoint(`index.${version}.json`))
+    return fetch(pathWithEndpoint(filename))
       .then(response => response.json())
       .then(spec => {
         const { samples } = spec;
@@ -33,6 +38,8 @@ const makeFetchSpecFile = (fetch, version) =>
         });
         return spec;
       });
-  });
+  };
+  return memoize(fetchSpecFile);
+};
 
 module.exports = makeFetchSpecFile;
