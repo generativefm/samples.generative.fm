@@ -222,5 +222,29 @@
     "F4": "f4.wav",
     "G1": "g1.wav",
     "G3": "g3.wav"
+  },
+  "vsco2-trumpet-sus-mf": {
+    "A2": "a2.wav",
+    "A4": "a4.wav",
+    "A#3": "asharp3.wav",
+    "C3": "c3.wav",
+    "C5": "c5.wav",
+    "D4": "d4.wav",
+    "D#3": "dsharp3.wav",
+    "F2": "f2.wav",
+    "F4": "f4.wav",
+    "G3": "g3.wav"
+  },
+  "vsco2-trumpet-sus-f": {
+    "A2": "a2.wav",
+    "A4": "a4.wav",
+    "A#3": "asharp3.wav",
+    "C3": "c3.wav",
+    "C5": "c5.wav",
+    "D4": "d4.wav",
+    "D#3": "dsharp3.wav",
+    "F2": "f2.wav",
+    "F4": "f4.wav",
+    "G3": "g3.wav"
   }
 }

@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.4.0] - 2019-03-12
+
+### Added
+
+- vsco2-trumpet-sus-f and vsco2-trumpet-sus-mf samples
+
 ## [1.3.0] - 2019-03-08
 
 ### Added
@@ -55,7 +61,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - acoustic-guitar-chords samples
 - Support instruments without notes assigned to samples
 
-[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.2.0...HEAD
+[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.4.0...HEAD
+[1.4.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.3.0...v1.4.0
+[1.3.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.1.1...v1.2.0
 [1.1.1]: https://github.com/generative-music/samples.generative.fm/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.0.0...v1.1.0
