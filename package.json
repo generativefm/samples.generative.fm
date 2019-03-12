@@ -1,6 +1,6 @@
 {
   "name": "@generative-music/samples.generative.fm",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Browser and Node client for accessing files from samples.generative.fm.",
   "main": "index.js",
   "module": "browser-client.js",
