@@ -9,7 +9,7 @@ module.exports = {
   input: './src/client/browser/browser.js',
   output: {
     file: 'browser-client.js',
-    format: 'esm',
+    format: 'cjs',
   },
   external: ['mem'],
   plugins: [
