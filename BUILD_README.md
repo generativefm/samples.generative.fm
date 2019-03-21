@@ -13,7 +13,7 @@ See [here](https://github.com/jankarres/node-lame#install-on-windows) for LAME i
 
 ## Build
 
-Compressed versions of the source samples are created with `npm run build`.
+Compressed versions of the source samples are created with `npm run build:samples`.
 
 Source samples can be found in the [`src/samples`](src/samples) directory, organized by instrument. Currently, only `.wav` files are supported as sources.
 
