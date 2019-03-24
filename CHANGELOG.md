@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.6.0] - 2019-03-24
+
+### Added
+
+- vcsl-didgeridoo-sus samples
+- itslucid-lofi-hats samples
+- itslucid-lofi-kick samples
+- itslucid-lofi-snare samples
+
 ## [1.5.0] - 2019-03-12
 
 ### Changed
@@ -67,7 +76,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - acoustic-guitar-chords samples
 - Support instruments without notes assigned to samples
 
-[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.5.0...HEAD
+[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.6.0...HEAD
+[1.6.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.5.0...v1.6.0
 [1.5.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.2.0...v1.3.0
