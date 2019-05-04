@@ -301,5 +301,21 @@
     "D#4": "dsharp4.wav",
     "F#4": "fsharp4.wav"
   },
-  "vcsl-claves": ["1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav"]
+  "vcsl-claves": ["1.wav", "2.wav", "3.wav", "4.wav", "5.wav", "6.wav"],
+  "vcsl-ocean-drum": ["1.wav", "2.wav", "3.wav"],
+  "dry-guitar-vib": {
+    "A#2": "asharp2.wav",
+    "A#3": "asharp3.wav",
+    "C3": "c3.wav",
+    "C4": "c4.wav",
+    "D2": "d2.wav",
+    "D3": "d3.wav",
+    "D4": "d4.wav",
+    "E2": "e2.wav",
+    "E3": "e3.wav",
+    "E4": "e4.wav",
+    "F#2": "fsharp2.wav",
+    "F#3": "fsharp3.wav",
+    "F#4": "fsharp4.wav"
+  }
 }
