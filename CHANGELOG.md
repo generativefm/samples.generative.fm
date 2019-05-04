@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+(none)
+
+## [1.8.0] - 2019-05-03
+
+### Added
+
+- vcsl-ocean-drum samples
+- dry-guitar-vib samples
+
 ## [1.7.0] - 2019-03-31
 
 ### Added
@@ -83,7 +92,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - acoustic-guitar-chords samples
 - Support instruments without notes assigned to samples
 
-[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.7.0...HEAD
+[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.8.0...HEAD
+[1.8.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.7.0...v1.8.0
 [1.7.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.6.0...v1.7.0
 [1.6.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.5.0...v1.6.0
 [1.5.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.4.0...v1.5.0
