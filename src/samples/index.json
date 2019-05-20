@@ -317,5 +317,13 @@
     "F#2": "fsharp2.wav",
     "F#3": "fsharp3.wav",
     "F#4": "fsharp4.wav"
+  },
+  "native-american-flute-susvib": {
+    "A3": "a3.wav",
+    "A4": "a4.wav",
+    "C4": "c4.wav",
+    "D4": "d4.wav",
+    "E4": "e4.wav",
+    "G4": "g4.wav"
   }
 }
