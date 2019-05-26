@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 (none)
 
+## [1.10.0] - 2019-05-26
+
+### Added
+
+- guitar-namaste samples
+
 ## [1.9.0] - 2019-05-19
 
 ### Added
