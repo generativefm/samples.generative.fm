@@ -9,6 +9,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 (none)
 
+## [1.10.0] - 2019-06-08
+
+### Added
+
+- vcsl-bassdrum-hit-f sample
+- vcsl-bassdrum-hit-ff sample
+- vcsl-finger-cymbals samples
+- vcsl-sleighbells samples
+- vcsl-tom samples
+- vsco2-cellos-susvib-mp
+
 ## [1.10.0] - 2019-05-26
 
 ### Added
