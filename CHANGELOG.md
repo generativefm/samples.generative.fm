@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 (none)
 
+## [1.11.1] - 2019-06-08
+
+### Fixed
+
+- Remove vcsl-nepalese-hand-bells from sample index since they aren't included
+
 ## [1.11.0] - 2019-06-08
 
 ### Added

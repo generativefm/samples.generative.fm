@@ -337,7 +337,6 @@
   "vcsl-bassdrum-hit-ff": ["1.wav"],
   "vcsl-sleighbells": ["1.wav", "2.wav"],
   "vcsl-finger-cymbals": ["1.wav"],
-  "vcsl-nepalese-hand-bells": ["1.wav", "2.wav", "3.wav"],
   "vcsl-tom": ["1.wav", "2.wav", "3.wav", "4.wav"],
   "vsco2-cellos-susvib-mp": {
     "A2": "a2.wav",
