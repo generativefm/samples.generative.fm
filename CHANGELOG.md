@@ -9,6 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 (none)
 
+## [1.12.0] - 2019-07-07
+
+### Added
+
+- acoustic-guitar samples
+- alex-hum-1 samples
+- alex-hum-2 samples
+
 ## [1.11.1] - 2019-06-08
 
 ### Fixed
