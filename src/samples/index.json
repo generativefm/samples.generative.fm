@@ -352,5 +352,42 @@
     "F4": "f4.wav",
     "G1": "g1.wav",
     "G3": "g3.wav"
+  },
+  "acoustic-guitar": {
+    "A2": "a2.wav",
+    "A3": "a3.wav",
+    "B2": "b2.wav",
+    "B3": "b3.wav",
+    "C2": "c2.wav",
+    "C3": "c3.wav",
+    "C4": "c4.wav",
+    "D#2": "dsharp2.wav",
+    "D#3": "dsharp3.wav",
+    "D#4": "dsharp4.wav",
+    "F2": "f2.wav",
+    "F3": "f3.wav",
+    "F4": "f4.wav",
+    "G2": "g2.wav",
+    "G3": "g3.wav"
+  },
+  "alex-hum-1": {
+    "A#2": "asharp2_1.wav",
+    "A#3": "asharp3_1.wav",
+    "C3": "c3_1.wav",
+    "C4": "c4_1.wav",
+    "D#3": "dsharp3_1.wav",
+    "F3": "f3_1.wav",
+    "G2": "g2_1.wav",
+    "G3": "g3_1.wav"
+  },
+  "alex-hum-2": {
+    "A#2": "asharp2_2.wav",
+    "A#3": "asharp3_2.wav",
+    "C3": "c3_2.wav",
+    "C4": "c4_2.wav",
+    "D#3": "dsharp3_2.wav",
+    "F3": "f3_2.wav",
+    "G2": "g2_2.wav",
+    "G3": "g3_2.wav"
   }
 }
