@@ -389,5 +389,17 @@
     "F3": "f3_2.wav",
     "G2": "g2_2.wav",
     "G3": "g3_2.wav"
+  },
+  "vsco2-marimba": {
+    "B2": "b2.wav",
+    "B4": "b4.wav",
+    "C2": "c2.wav",
+    "C4": "c4.wav",
+    "C6": "c6.wav",
+    "F1": "f1.wav",
+    "F3": "f3.wav",
+    "F5": "f5.wav",
+    "G2": "g2.wav",
+    "G4": "g4.wav"
   }
 }
