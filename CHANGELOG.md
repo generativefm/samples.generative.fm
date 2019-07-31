@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 (none)
 
+## [1.14.0] - 2019-07-31
+
+### Added
+
+- guitar-coil-spank samples
+- guitar-dusty samples
+
 ## [1.13.0] - 2019-07-13
 
 ### Added
@@ -135,7 +142,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - acoustic-guitar-chords samples
 - Support instruments without notes assigned to samples
 
-[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.13.0...HEAD
+[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.14.0...HEAD
+[1.14.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.13.0...v1.14.0
 [1.13.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.12.0...v1.13.0
 [1.12.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.11.1...v1.12.0
 [1.11.1]: https://github.com/generative-music/samples.generative.fm/compare/v1.11.0...v1.11.1
