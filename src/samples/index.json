@@ -439,5 +439,26 @@
     "15.wav",
     "16.wav",
     "17.wav"
-  ]
+  ],
+  "vcsl-tenor-sax-vib": {
+    "A#1": "asharp1.wav",
+    "A#2": "asharp2.wav",
+    "A#3": "asharp3.wav",
+    "A#4": "asharp4.wav",
+    "C2": "c2.wav",
+    "C3": "c3.wav",
+    "C4": "c4.wav",
+    "C5": "c5.wav",
+    "D2": "d2.wav",
+    "D3": "d3.wav",
+    "D4": "d4.wav",
+    "D5": "d5.wav",
+    "E2": "e2.wav",
+    "E3": "e3.wav",
+    "E4": "e4.wav",
+    "F#2": "fsharp2.wav",
+    "F#3": "fsharp3.wav",
+    "G4": "g4.wav",
+    "G#4": "gsharp4.wav"
+  }
 }
