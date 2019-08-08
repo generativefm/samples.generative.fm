@@ -460,5 +460,19 @@
     "F#3": "fsharp3.wav",
     "G4": "g4.wav",
     "G#4": "gsharp4.wav"
+  },
+  "idling-truck": ["1.wav"],
+  "vcsl-vibraphone-soft-mallets-mp": {
+    "A2": "a2.wav",
+    "A4": "a4.wav",
+    "B3": "b3.wav",
+    "C3": "c3.wav",
+    "C4": "c4.wav",
+    "C5": "c5.wav",
+    "E3": "e3.wav",
+    "E5": "e5.wav",
+    "F2": "f2.wav",
+    "F4": "f4.wav",
+    "G3": "g3.wav"
   }
 }
