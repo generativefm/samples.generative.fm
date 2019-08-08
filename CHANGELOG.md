@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+(none)
+
+## [1.16.0] - 2019-08-19
+
 ### Added
 
 - vcsl-vibraphone-soft-mallets-mp samples
@@ -151,7 +155,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - acoustic-guitar-chords samples
 - Support instruments without notes assigned to samples
 
-[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.15.0...HEAD
+[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.16.0...HEAD
+[1.16.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.15.0...v1.16.0
 [1.15.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.14.0...v1.15.0
 [1.14.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.13.0...v1.14.0
 [1.13.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.12.0...v1.13.0
