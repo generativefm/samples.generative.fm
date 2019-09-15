@@ -474,5 +474,26 @@
     "F2": "f2.wav",
     "F4": "f4.wav",
     "G3": "g3.wav"
+  },
+  "whales": ["1.wav"],
+  "sso-chorus-female": {
+    "A4": "a4.wav",
+    "A5": "a5.wav",
+    "A#4": "asharp4.wav",
+    "A#5": "asharp5.wav",
+    "B4": "b4.wav",
+    "B5": "b5.wav",
+    "C5": "c5.wav",
+    "C6": "c6.wav",
+    "C#5": "csharp5.wav",
+    "D5": "d5.wav",
+    "D#5": "dsharp5.wav",
+    "E5": "e5.wav",
+    "F5": "f5.wav",
+    "F#5": "fsharp5.wav",
+    "G4": "g4.wav",
+    "G5": "g5.wav",
+    "G#4": "gsharp4.wav",
+    "G#5": "gsharp5.wav"
   }
 }
