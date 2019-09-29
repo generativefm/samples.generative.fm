@@ -503,5 +503,29 @@
     "G3": "g3.wav",
     "G4": "g4.wav",
     "E5": "e5.wav"
+  },
+  "vsco2-harp": {
+    "A2": "./samples/vsco2-harp/a2.wav",
+    "A4": "./samples/vsco2-harp/a4.wav",
+    "A6": "./samples/vsco2-harp/a6.wav",
+    "B1": "./samples/vsco2-harp/b1.wav",
+    "B3": "./samples/vsco2-harp/b3.wav",
+    "B5": "./samples/vsco2-harp/b5.wav",
+    "B6": "./samples/vsco2-harp/b6.wav",
+    "C3": "./samples/vsco2-harp/c3.wav",
+    "C5": "./samples/vsco2-harp/c5.wav",
+    "D2": "./samples/vsco2-harp/d2.wav",
+    "D4": "./samples/vsco2-harp/d4.wav",
+    "D6": "./samples/vsco2-harp/d6.wav",
+    "D7": "./samples/vsco2-harp/d7.wav",
+    "E1": "./samples/vsco2-harp/e1.wav",
+    "E3": "./samples/vsco2-harp/e3.wav",
+    "E5": "./samples/vsco2-harp/e5.wav",
+    "F2": "./samples/vsco2-harp/f2.wav",
+    "F4": "./samples/vsco2-harp/f4.wav",
+    "F6": "./samples/vsco2-harp/f6.wav",
+    "F7": "./samples/vsco2-harp/f7.wav",
+    "G3": "./samples/vsco2-harp/g3.wav",
+    "G5": "./samples/vsco2-harp/g5.wav"
   }
 }
