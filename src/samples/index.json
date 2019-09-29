@@ -495,5 +495,13 @@
     "G5": "g5.wav",
     "G#4": "gsharp4.wav",
     "G#5": "gsharp5.wav"
+  },
+  "guitar-harmonics": {
+    "C3": "c3.wav",
+    "C4": "c4.wav",
+    "C5": "c5.wav",
+    "G3": "g3.wav",
+    "G4": "g4.wav",
+    "E5": "e5.wav"
   }
 }
