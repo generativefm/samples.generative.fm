@@ -528,5 +528,10 @@
     "G3": "g3.wav",
     "G5": "g5.wav"
   },
-  "dan-tranh-gliss-ps": ["1.wav"]
+  "dan-tranh-gliss-ps": ["1.wav"],
+  "vcsl-darbuka-1-f": ["1.wav", "2.wav"],
+  "vcsl-darbuka-2-f": ["1.wav", "2.wav"],
+  "vcsl-darbuka-3-f": ["1.wav", "2.wav"],
+  "vcsl-darbuka-4-f": ["1.wav", "2.wav"],
+  "vcsl-darbuka-5-f": ["1.wav", "2.wav"]
 }
