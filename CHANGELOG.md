@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 (none)
 
+## [1.21.1] - 2019-11-10
+
+### Fixed
+
+- dan-tranh-gliss-ps, vcsl-darbuka-1-f, vcsl-darbuka-2-f, vcsl-darbuka-3-f, vcsl-darbuka-4-f, and vcsl-darbuka-5-f changed to arrays
+
 ## [1.21.0] - 2019-11-10
 
 ### Added
@@ -195,7 +201,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - acoustic-guitar-chords samples
 - Support instruments without notes assigned to samples
 
-[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.21.0...HEAD
+[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.21.1...HEAD
+[1.21.1]: https://github.com/generative-music/samples.generative.fm/compare/v1.21.0...v1.21.1
 [1.21.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.20.0...v1.21.0
 [1.20.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.19.0...v1.20.0
 [1.19.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.18.0...v1.19.0
