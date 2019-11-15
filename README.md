@@ -52,6 +52,8 @@ Returns an object containing information about the samples.
 
 ## Local Development
 
-The package is built with `npm run build:pkg`.
+1. Install dependencies with `npm install`.
+
+2. The package is built with `npm run build:pkg`.
 
 [samples.generative.fm]: https://samples.generative.fm
