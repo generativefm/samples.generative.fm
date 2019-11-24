@@ -533,5 +533,27 @@
   "vcsl-darbuka-2-f": ["1.wav", "2.wav"],
   "vcsl-darbuka-3-f": ["1.wav", "2.wav"],
   "vcsl-darbuka-4-f": ["1.wav", "2.wav"],
-  "vcsl-darbuka-5-f": ["1.wav", "2.wav"]
+  "vcsl-darbuka-5-f": ["1.wav", "2.wav"],
+  "vsco2-trombone-sus-mf": {
+    "A#0": "asharp0.wav",
+    "A#1": "asharp1.wav",
+    "C3": "c3.wav",
+    "C#1": "csharp1.wav",
+    "C#3": "csharp3.wav",
+    "D2": "d2.wav",
+    "D#1": "dsharp1.wav",
+    "D#3": "dsharp3.wav",
+    "F1": "f1.wav",
+    "F2": "f2.wav",
+    "F3": "f3.wav"
+  },
+  "vsco2-tuba-sus-mf": {
+    "A#0": "asharp0.wav",
+    "A#1": "asharp1.wav",
+    "A#2": "asharp2.wav",
+    "D2": "d2.wav",
+    "D#1": "dsharp1.wav",
+    "F1": "f1.wav",
+    "F2": "f2.wav"
+  }
 }
