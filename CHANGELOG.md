@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 (none)
 
+## [1.23.0] - 2020-01-20
+
+### Added
+
+- sso-chorus-male samples
+- waves samples
+
 ## [1.22.0] - 2019-11-24
 
 ### Added
@@ -208,7 +215,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - acoustic-guitar-chords samples
 - Support instruments without notes assigned to samples
 
-[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.22.0...HEAD
+[unreleased]: https://github.com/generative-music/samples.generative.fm/compare/v1.23.0...HEAD
+[1.23.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.22.0...v1.23.0
 [1.22.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.21.1...v1.22.0
 [1.21.1]: https://github.com/generative-music/samples.generative.fm/compare/v1.21.0...v1.21.1
 [1.21.0]: https://github.com/generative-music/samples.generative.fm/compare/v1.20.0...v1.21.0
