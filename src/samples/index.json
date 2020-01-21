@@ -555,5 +555,32 @@
     "D#1": "dsharp1.wav",
     "F1": "f1.wav",
     "F2": "f2.wav"
-  }
+  },
+  "sso-chorus-male": {
+    "A2": "a2.wav",
+    "A#2": "asharp2.wav",
+    "B2": "b2.wav",
+    "C3": "c3.wav",
+    "C#3": "csharp3.wav",
+    "D3": "d3.wav",
+    "D#3": "dsharp3.wav",
+    "E3": "e3.wav",
+    "F3": "f3.wav",
+    "F#3": "fsharp3.wav",
+    "G2": "g2.wav",
+    "G#2": "gsharp2.wav",
+    "A3": "a3.wav",
+    "A#3": "asharp3.wav",
+    "B3": "b3.wav",
+    "C4": "c4.wav",
+    "C#4": "csharp4.wav",
+    "D4": "d4.wav",
+    "D#4": "dsharp4.wav",
+    "E4": "e4.wav",
+    "F4": "f4.wav",
+    "F#4": "fsharp4.wav",
+    "G3": "g3.wav",
+    "G#3": "gsharp3.wav"
+  },
+  "waves": ["1.wav"]
 }
