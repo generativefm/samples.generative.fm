@@ -1,3 +1,6 @@
+# DEPRECATED
+Replaced by [@generative-music/samples-alex-bainter](https://github.com/generative-music/samples-alex-bainter).
+
 # samples.generative.fm
 
 Browser and Node client for accessing files from [samples.generative.fm].
